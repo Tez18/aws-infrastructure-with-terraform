@@ -4,7 +4,7 @@
 ## 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="assets/arc_pr.png" width="850"/>
+  <img src="assets/arc_pr.png" width="500"/>
 </p>
 
 
