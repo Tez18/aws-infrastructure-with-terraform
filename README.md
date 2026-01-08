@@ -1,6 +1,12 @@
 # Terraform AWS Infrastructure & Web Server Deployment
 
-![AWS Architecture Diagram](./aws_deployment_architecture_v2.png)
+![AWS Architecture Diagram]
+## 🏗️ Architecture Diagram
+
+<p align="center">
+  <img src="assets/arc_pr.png" width="850"/>
+</p>
+
 
 This project uses **Terraform** to provision a resilient AWS network infrastructure and automatically deploys a web server. It sets up a Virtual Private Cloud (VPC), public subnets across multiple availability zones, and an EC2 instance that serves a custom web page.
 
