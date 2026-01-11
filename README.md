@@ -84,5 +84,4 @@ The diagram above illustrates the traffic flow:
 *   `output.tf`: Displays critical info (Public IP, VPC ID) after deployment.
 *   `index.html`: The HTML file used for the web server content.
 
----
-*Generated with ❤️ by Antigravity*
+
